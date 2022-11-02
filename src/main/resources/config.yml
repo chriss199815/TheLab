@@ -1,7 +1,7 @@
 #Enable MOTD
 motd: true
 
-#Set the MOTD new lines that with a - followed by ''
+#Set the MOTD new lines start with a - followed by ''
 motd-message:
   - '&l&1#############################'
   - ''
