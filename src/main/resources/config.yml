@@ -1,0 +1,14 @@
+#Enable MOTD
+motd: true
+
+#Set the MOTD new lines that with a - followed by ''
+motd-message:
+  - '&l&1#############################'
+  - ''
+  - '&aWelcome to the LAB'
+  - ''
+  - '&2Visit &e&lhttps://alterblog.net'
+  - '&l&1#############################'
+
+#Enable god mode on Server join
+god-join: true

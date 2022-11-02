@@ -1,0 +1,12 @@
+name: TheLab
+version: '${project.version}'
+main: net.alterblog.thelab.TheLab
+api-version: 1.19
+prefix: The LAB
+authors: [ chriss199815 ]
+description: The Plugin for theLab Projekt
+website: alterblog.net
+commands:
+  fly:
+    description: Lets the User fly!
+    usage: /<command>
